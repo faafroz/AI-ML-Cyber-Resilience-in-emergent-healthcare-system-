@@ -41,4 +41,8 @@ submitted as a preprint to arXiv.
 ## License
 MIT
 
+## Citation
+If you use this work, please cite:
+Afroz, Fareeha. (2025). AI-ML Based Cyber Resilience for Emergent Healthcare Systems.
+
 
