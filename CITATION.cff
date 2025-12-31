@@ -3,5 +3,12 @@ title: "AI-ML Based Cyber Resilience for Emergent Healthcare Systems"
 authors:
   - family-names: Afroz
     given-names: Fareeha
-year: 2025
-url: https://github.com/faafroz/AI-ML-Cyber-Resilience-in-emergent-healthcare-system-
+affiliation: Northeastern Illinois University
+date-released: 2025-01-01
+repository-code: https://github.com/faafroz/AI-ML-Cyber-Resilience-in-emergent-healthcare-system-
+keywords:
+  - Cybersecurity
+  - Healthcare AI
+  - Anomaly Detection
+  - Reinforcement Learning
+license: MIT
